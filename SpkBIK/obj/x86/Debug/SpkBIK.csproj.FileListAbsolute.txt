@@ -1,0 +1,10 @@
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.Properties.Resources.resources
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.csproj.GenerateResource.Cache
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\bin\Debug\SpkBIK.exe
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\bin\Debug\SpkBIK.pdb
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.exe
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.pdb
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.Form1.resources
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\bin\Debug\SpkBIK.exe.config
+c:\users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.Action.resources
+C:\Users\comp\documents\visual studio 2010\Projects\SpkBIK\SpkBIK\obj\x86\Debug\SpkBIK.csprojResolveAssemblyReference.cache

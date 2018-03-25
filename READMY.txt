@@ -1,0 +1,21 @@
+Автор: Емелеев Руслан
+Эл. адрес: emeleev@bk.ru
+Дата 25.03.2018
+Средство разработки: Microsoft Visual Studio 2010
+.Net Framework 4.0
+
+Описание:
+Работа со справочником БИК в формате dbf.
+Доступные операции: добавление, редактирование, удаление.
+
+Запуск приложения: SpkBIK\bin\Debug\SpBIK.exe
+Файл параметров: SpkBIK\bin\Debug\SpkBIK.exe.config
+Перед первым запуском программы необходимо в файле параметров указать путь к справочнику БИК.
+Параметр:
+<SpkBIK.Properties.Settings>
+        <setting name="PathSpr" serializeAs="String">
+                <value>C:\temp\SPR</value>
+	</setting>
+</SpkBIK.Properties.Settings>
+
+Справочник БИКов расположен в архиве Banks_BIK.zip
